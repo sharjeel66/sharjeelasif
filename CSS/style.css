@@ -1,0 +1,9 @@
+@font-face {
+    font-family: Inter-Light;
+    src: url(Fonts/Inter_18pt-Light.ttf);
+}
+body {
+    font-family: Inter-Light;
+    color: whitesmoke;
+    background-color: black;
+}
